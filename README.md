@@ -1,4 +1,5 @@
 # GRIP_task3
+# AUTHOR: ANUKSHA DUTTA 
 This is the 3rd task of my GRIP internship.
 
 As a part of the internship at The Sparks Foundation in the GRIP program, I was tasked to perform EDA on a sample dataset provided. The following was my approach for it. 
