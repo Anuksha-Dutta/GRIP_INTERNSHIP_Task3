@@ -13,10 +13,10 @@ EDA or exploratory data analysis is a very important step when working with data
 
 You can find my complete analysis at the following links:
 
-Medium:
+Medium: https://medium.com/@anukshadutta123/exploratory-data-analysis-on-sample-dataset-sample-superstore-b9270feb0f7d
 
-Youtube: 
+Youtube: https://www.youtube.com/watch?v=4hzWK88BNQU&feature=youtu.be
 
 Tableau: https://public.tableau.com/views/EDAonSalesdata_17076398173220/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/posts/anuksha-dutta-9b8154228_task3-thesparksfoundation-intern-activity-7162885580190601216-QsOI?utm_source=share&utm_medium=member_desktop
